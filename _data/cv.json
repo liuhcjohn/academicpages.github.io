@@ -1,152 +1,164 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "John Liu",
+    "email": "liuhcjohn@gmail.com",
+    "phone": "(408) 442-8452",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Experienced mechanical engineer with a strong foundation in core engineering first principles. Proven track record in impacting cross-functional teams to deliver complex products from concept through full-rate production.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Campbell",
       "countryCode": "US",
-      "region": ""
+      "region": "CA"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "liuhcjohn",
+        "url": "https://linkedin.com/in/liuhcjohn"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "johnliu",
+        "url": "https://github.com/johnliu"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Apple Inc.",
+      "position": "Mechanical Quality Engineer",
+      "department": "Battery Cell & Pack | AirPods & iPad",
+      "startDate": "2023-03",
+      "endDate": "Present",
+      "summary": "Led battery system quality initiatives for Apple's consumer products.",
+      "highlights": [
+        "Led the redesign of battery pack components on the M3 iPad Air to eliminate battery tab crack, enhancing product reliability and safety",
+        "Lifted quality alert on ~1M Airpods Pro 2nd gen Case due to pouch breach risk by lowering the DPPM",
+        "Spearheaded a $500K cost-saving initiative over the Airpods 4th gen production lifetime by optimizing metrology equipment",
+        "Improved battery pack yield by 25% on the Airpods Pro 2nd gen buds by qualifying two new tag vendors",
+        "Increased pack yield by 50%, saving $600k through the Airpods 4th gen production lifetime"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Apple Inc.",
+      "position": "Manufacturing Design Engineer",
+      "department": "Thermal Modules | iPhone",
+      "startDate": "2022-04",
+      "endDate": "2023-03",
+      "summary": "Developed thermal management solutions for iPhone manufacturing.",
+      "highlights": [
+        "Qualified a second source vendor and led development of improved B-PET material, resulting in $1.5M savings over iPhone 15 and 15 Pro lifetime",
+        "Enhanced production line efficiency from 30% to 60% resulting in cost savings of $180k/line",
+        "Developed a new synthetic graphite width by optimizing sintering temperature profile through TGA, SEM and DOE studies"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Rivian",
+      "position": "Body Structures Engineer Intern",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
+      "summary": "Contributed to electric vehicle battery pack and body structure design.",
+      "highlights": [
+        "Developed engineering reports to drive future battery pack design by analyzing existing structures",
+        "Redesigned the torque box to optimize for mass and assembly efficiencies (40% mass reduction)",
+        "Contributed to NPI project by establishing design direction for new pickup structure"
+      ]
+    },
+    {
+      "company": "Tesla",
+      "position": "Dimensional Engineer Intern (Body in White)",
+      "startDate": "2020-09",
+      "endDate": "2021-03",
+      "summary": "Improved manufacturing precision and quality for Tesla vehicle production.",
+      "highlights": [
+        "Reduced production downtime and improved dimensional issues for Model Y front underbody assembly",
+        "Developed data analysis tool for Model S/X/Y to detect dimensional issues and visualize metrology data",
+        "Corrected dimensional issues to fall within 10% of tolerance in Model 3/X/Y underbody"
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "California Polytechnic State University, San Luis Obispo",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2021-12",
+      "gpa": null,
+      "courses": [
+        "Vibrations",
+        "Detailed Design/Assembly/GD&T",
+        "Technical Writing",
+        "Thermodynamics",
+        "Mechanics of Materials",
+        "Materials Engineering",
+        "Fluid Mechanics",
+        "Strength and Stiffness",
+        "Intermediate Dynamics",
+        "Applied FEA",
+        "Composite Materials Analysis and Design",
+        "Mechanical Systems Design",
+        "Additive Manufacturing"
+      ],
+      "awards": ["Dean's Academic Achievement Award"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software & Tools",
+      "level": "Advanced",
+      "keywords": [
+        "JMP",
+        "SolidWorks",
+        "CATIA V5/V6",
+        "AutoCAD",
+        "MATLAB",
+        "Microsoft Office Suite",
+        "ABAQUS",
+        "SimSolid",
+        "Autodesk Fusion 360",
+        "Autodesk Generative Design",
+        "VBA"
+      ]
+    },
+    {
+      "name": "Manufacturing & Testing",
+      "level": "Advanced",
+      "keywords": [
+        "Casting",
+        "Mills",
+        "Lathes",
+        "3D Printing",
+        "Metrology",
+        "Dimensional Analysis",
+        "Quality Control",
+        "Process Optimization"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Native",
+      "keywords": [
+        "English",
+        "Mandarin"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Cisco 1RU Standardization – Senior Design Project",
+      "category": "project",
+      "date": "2020-09 to 2021-06",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Reduced the number of future custom Cisco chassis by standardizing the perimeter mounting hole locations for PCB assembly and setting a guideline for Cisco design engineers. Optimized chassis sets for tooling through a MATLAB script that compares chassis and tooling hole locations."
     }
   ]
 }
